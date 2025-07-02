@@ -47,7 +47,8 @@ Formspree (for contact form)
 GitHub Pages (for deployment)
 
 📸 Screenshots
-![Screenshot (47)](https://github.com/user-attachments/assets/591d4581-bcbc-4c12-b0ce-4394fb732a26)
+![image](https://github.com/user-attachments/assets/020da750-9ba5-49f9-8eea-05d40bc8f7dc)
+
 ![image](https://github.com/user-attachments/assets/e9ba65e5-e2ef-4b0a-baa7-0c46ce126f96)
 ![image](https://github.com/user-attachments/assets/d1c1fdab-02c4-493e-b9c4-3643152115f4)
 
