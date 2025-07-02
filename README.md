@@ -33,3 +33,34 @@ portfolio/
 │   ├── project1.png
 │   └── ...
 └── README.md
+```
+
+##🛠️ Built With
+HTML5
+
+CSS3
+
+JavaScript
+
+Formspree (for contact form)
+
+GitHub Pages (for deployment)
+
+📸 Screenshots
+![Screenshot (47)](https://github.com/user-attachments/assets/591d4581-bcbc-4c12-b0ce-4394fb732a26)
+![image](https://github.com/user-attachments/assets/e9ba65e5-e2ef-4b0a-baa7-0c46ce126f96)
+![image](https://github.com/user-attachments/assets/d1c1fdab-02c4-493e-b9c4-3643152115f4)
+
+🧠 Roles Represented
+Frontend Developer — Responsive, accessible layout
+
+UI/UX Designer — Clean interface and visual hierarchy
+
+Graphic Designer — Custom banners, icons, and branding
+
+Data Analyst — Projects involving data dashboards and visualizations
+
+📝 License
+This project is open-source and available for personal and educational use.
+
+
