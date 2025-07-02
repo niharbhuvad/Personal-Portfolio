@@ -1059,7 +1059,7 @@ footer{
     }
 }
 
-@media(max-width:350px){
+@media(max-width:290px){
     html{
         font-size: 80%;
     }
