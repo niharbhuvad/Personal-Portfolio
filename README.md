@@ -6,7 +6,7 @@ A modern, fully responsive portfolio website built to showcase my skills, projec
 
 ## 🚀 Live Demo
 
-🔗 [Visit Portfolio Website](https://niharbhuvad.github.io/portfolio)
+🔗 [Visit Portfolio Website](https://niharbhuvad.github.io/Personal-Portfolio)
 
 ---
 
